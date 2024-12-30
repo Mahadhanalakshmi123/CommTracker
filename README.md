@@ -34,14 +34,4 @@ The Calendar Application for Communication Tracking is a React-based tool design
 
 ## Setup and Deployment
 
-### Prerequisites
-- Node.js and npm (Node Package Manager) installed.
-- A code editor (e.g., Visual Studio Code).
-- A GitHub account for version control and deployment.
 
-### Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/communication-tracking-calendar.git
-   cd communication-tracking-calendar
